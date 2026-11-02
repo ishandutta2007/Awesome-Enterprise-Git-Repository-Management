@@ -60,7 +60,7 @@ Commercial and enterprise-grade Git repository management platforms, ranked and 
 
 ## 🟩 Open-Source Git Platforms
 
-Fully open-source, community-driven, self-hosted Git repository management systems. Sorted descending by GitHub Stars_Count: ⭐
+Fully open-source, community-driven, self-hosted Git repository management systems. Sorted descending by GitHub_Stars_Count: ⭐
 
 | 📦 Repository / Project | ⭐ GitHub_Stars | 💻 Technology Stack | 📜 Primary License | 📝 Description & Enterprise Use Case |
 | :--- | :---: | :--- | :--- | :--- |
