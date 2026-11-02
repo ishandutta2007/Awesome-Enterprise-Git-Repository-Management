@@ -60,9 +60,9 @@ Commercial and enterprise-grade Git repository management platforms, ranked and 
 
 ## 🟩 Open-Source Git Platforms
 
-Fully open-source, community-driven, self-hosted Git repository management systems. Sorted descending by GitHub star count: ⭐
+Fully open-source, community-driven, self-hosted Git repository management systems. Sorted descending by GitHub Stars_Count: ⭐
 
-| 📦 Repository / Project | ⭐ Stars | 💻 Technology Stack | 📜 Primary License | 📝 Description & Enterprise Use Case |
+| 📦 Repository / Project | ⭐ GitHub_Stars | 💻 Technology Stack | 📜 Primary License | 📝 Description & Enterprise Use Case |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Gitea](https://github.com/go-gitea/gitea)** | [![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) | Go, Vue.js, SQLite/MySQL/PostgreSQL | MIT | Ultra-fast, lightweight Git server with pull requests, issues, wikis, Git LFS, and built-in package registries. Easily deployed via single binary or Docker on minimal hardware. ⚡ |
 | **[Gogs](https://github.com/gogs/gogs)** | [![Stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers) | Go, HTML/JS, MySQL/PostgreSQL/SQLite | MIT | Minimalist, single-binary painless self-hosted Git server designed for rock-solid stability and low memory consumption (can run on ~64 MB RAM). 🪶 |
