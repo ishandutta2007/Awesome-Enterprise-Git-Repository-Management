@@ -41,6 +41,7 @@
   </defs>
 
   <style>
+    <![CDATA[
     .title-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-weight: 800;
@@ -89,6 +90,7 @@
     .p1 { animation: floatParticle 6s ease-in-out infinite; }
     .p2 { animation: floatParticle 8s ease-in-out infinite 1s; }
     .p3 { animation: floatParticle 7s ease-in-out infinite 2s; }
+    ]]>
   </style>
 
   <!-- Background Base -->
